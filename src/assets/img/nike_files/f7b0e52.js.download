@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[218],{1669:function(e,n,t){"use strict";t.r(n);var o=t(3),r=t(18),l=Object(o.b)({props:{size:{type:String,default:"is-normal"}},setup:function(e){return{props:e,mdiMovieOpen:r.wb}}}),c=t(10),component=Object(c.a)(l,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("IconBase",{attrs:{path:e.mdiMovieOpen,size:e.props.size}})}),[],!1,null,null,null);n.default=component.exports;installComponents(component,{IconBase:t(30).default})}}]);
+//# sourceMappingURL=f7b0e52.js.map
